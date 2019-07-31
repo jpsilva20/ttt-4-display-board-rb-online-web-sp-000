@@ -1,6 +1,6 @@
 board = [" "," "," "," "," "," "," "," "," "]
 def display_board
-  puts "boar  |   |   "
+  puts "#{board[0]}  |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
